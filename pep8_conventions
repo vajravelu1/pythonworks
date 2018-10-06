@@ -1,0 +1,3 @@
+1>each indentation levels must be 4 spaces
+2>classes name must be captilised,by using camel case ( Class1 ) ,where as functions must be all lowercase (func1)
+3>module level functions must be separated by two blank lines (module level functions are the functions which intended to be imported within REPL )
