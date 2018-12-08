@@ -19,3 +19,7 @@ def get_food(x):
 	with closing(FridgeRaider()) as e:
 		e.open_door()
 		e.get_food(x)
+
+		
+		
+####sample edit###
